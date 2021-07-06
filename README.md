@@ -2,6 +2,7 @@
 I'm a full stack web developer and entrepreneur who loves to build and ship products.
 
 ## Tech Skills
+![tech-skills](https://user-images.githubusercontent.com/13739454/124678033-5a305400-de87-11eb-9276-c52253de7202.png)
 
 - Javascript
 - React
