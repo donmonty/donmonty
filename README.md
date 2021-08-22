@@ -44,6 +44,13 @@ A fully-featured ecommerce site built from scratch as part of Henry, a 700 hour 
 ![onion-banner](https://user-images.githubusercontent.com/13739454/124404071-ecf1b700-dcfe-11eb-8749-aff222bfd52a.png)
 
 
+### [Parking Lot Search App](https://airgarage-client.herokuapp.com/)
+An app that connects to the Yelp API and searches for the worst rated parking spaces in America. Built for [Air Garage](https://www.airgarage.com/), a startup that automates the operation of parking lots and enables churches and businesses to rent out parking to drivers on demand. 
+Although the app looks quite simple, it deals with a couple of technical challenges under the hood. First, it's not possible to make requests to the Yelp API using a regular frontend client. Second, the Yelp API does not provide any functionality to search and sort businesses by reverse ratings. To solve these challenges the app includes a backend that handles requests to the Yelp API and performs a series of tricks to sort parking lots from worst rated to best, maintaining a nice set of paginated results. 
+
+- [Check out the deployed app](https://airgarage-client.herokuapp.com/)
+
+
 ### Country Tours
 A site that showcases a collection of countries and their featured tours. The site was built as part of Henry, a 700 hour coding bootcamp. Built with React, Redux, Express, Sequelize and Postgres.
 
