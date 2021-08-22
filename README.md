@@ -38,6 +38,7 @@ The new version of the NubeBar app. I am currently building it with React Native
 ### [Onion Grocery Store](https://github.com/theoradicella/Final-Project)
 A fully-featured ecommerce site built from scratch as part of Henry, a 700 hour coding bootcamp. The site was built with React, Redux, Express, Sequelize and Postgres. I worked as part of a 8 person team, following the SCRUM agile methodology. My responsibilities included overseeing the backend development and acting as a tech leader.
 
+- [Check out a quick video of the project in action](https://drive.google.com/file/d/1VJReBUUKoyu_ltoD2S1vUvW3GHWdOM9s/view?usp=sharing)
 - [Check out the project's repository](https://github.com/theoradicella/Final-Project)
 
 ![onion-banner](https://user-images.githubusercontent.com/13739454/124404071-ecf1b700-dcfe-11eb-8749-aff222bfd52a.png)
