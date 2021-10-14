@@ -1,21 +1,17 @@
 # Hi! Montero here.
-I'm a full stack web developer and entrepreneur who loves to build and ship products.
+I'm a full stack web developer and marketer who loves to build and sell products.
 
 ## Tech Skills
 ![tech-skills](https://user-images.githubusercontent.com/13739454/124678033-5a305400-de87-11eb-9276-c52253de7202.png)
 
 - Javascript
-- React
-- React Native
+- Python
+- React & React Native
 - Redux
 - Node
-- Express
 - Postgres
-- Sequelize
 - Prisma
-- Python
 - Django
-- Django REST Framework
 
 ## Featured Projects
 
