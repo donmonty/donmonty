@@ -1,4 +1,4 @@
-# Hi! Antonio Montero here.
+# Hi! Montero here.
 I'm a full stack web developer and entrepreneur who loves to build and ship products.
 
 ## Tech Skills
