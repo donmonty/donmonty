@@ -26,9 +26,8 @@ I built the backend using Django, Django REST Framework and Postgres.
 
 
 ### NubeBar (Revamp)
-The new version of the NubeBar app. I am currently building it with React Native, Prisma, Express and Postgres.
+The new version of the NubeBar app. I am currently building it with React Native, Postgres and Django.
 
-- [Check out the project's backend.](https://github.com/donmonty/backend-nubebar)
 - [Check out the project's frontend.](https://github.com/donmonty/frontend-nubebar)
 
 ### [Onion Grocery Store](https://github.com/theoradicella/Final-Project)
