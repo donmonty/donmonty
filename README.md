@@ -30,14 +30,6 @@ The new version of the NubeBar app. I am currently building it with React Native
 
 - [Check out the project's frontend.](https://github.com/donmonty/frontend-nubebar)
 
-### [Onion Grocery Store](https://github.com/theoradicella/Final-Project)
-A fully-featured ecommerce site built from scratch as part of Henry, a 700 hour coding bootcamp. The site was built with React, Redux, Express, Sequelize and Postgres. I worked as part of a 8 person team, following the SCRUM agile methodology. My responsibilities included overseeing the backend development and acting as a tech leader.
-
-- [Check out a quick video of the project in action](https://drive.google.com/file/d/1VJReBUUKoyu_ltoD2S1vUvW3GHWdOM9s/view?usp=sharing)
-- [Check out the project's repository](https://github.com/theoradicella/Final-Project)
-
-![onion-banner](https://user-images.githubusercontent.com/13739454/124404071-ecf1b700-dcfe-11eb-8749-aff222bfd52a.png)
-
 
 ### [Parking Lot Search App](https://airgarage-client.herokuapp.com/)
 An app that connects to the Yelp API and searches for the worst rated parking spaces in America. Built for [Air Garage](https://www.airgarage.com/), a startup that automates the operation of parking lots and enables churches and businesses to rent out parking to drivers on demand. 
@@ -53,30 +45,3 @@ Built with:
 
 ![parking-lot-search-app](https://user-images.githubusercontent.com/13739454/130372381-6ec733a0-2235-4824-9b78-ed817b6740e7.png)
 
-
-
-
-
-### Country Tours
-A site that showcases a collection of countries and their featured tours. The site was built as part of Henry, a 700 hour coding bootcamp. Built with React, Redux, Express, Sequelize and Postgres.
-
-- [Watch a video demo of the project.](https://www.loom.com/share/4fdfa21e285d4257a1999f16976889de)
-- [Check out the project's backend](https://github.com/donmonty/Countries-Project)
-- [Check out the project's frontend](https://github.com/donmonty/countries-frontend)
-
-
-
-<!--
-**donmonty/donmonty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
