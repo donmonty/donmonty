@@ -17,10 +17,12 @@ I'm a product builder and marketer. I enjoy working with early stage startups, h
 ### [NubeBar](https://github.com/donmonty/api-nubebar-django)
 NubeBar is a mobile app that helps bars and restaurants manage their alcohol inventory in order to avoid theft and boost revenue. For most bars and restaurants alcohol sales represent 40% or more of total sales. Alcohol also has the highest margins and is the most valuable inventory. Despite this, most businesses manage their alcohol inventory using manual, time-consuming methods that make inventory control a big challenge. NubeBar solves this problem.
 
+Thanks to NubeBar's bar code and QR scanner, bar managers can do full inventory counts in a matter of minutes, not hours. And with the help of NubeBar's analytics module, bar managers have a detailed view of their inventory over time. NubeBar highlights any differences between reported sales and actual alcohol consumption, allowing bar managers to uncover theft or malpractice at the bottle level with milliliter precision.
+
 I built the app using React Native, Django and Postgres. I like to think that I worked as a full stack entrepreneur because I did everything: customer research and development, sales, UX design, frontend development, backend development and customer support.
 
-- [Click here to check out the project repository.](https://github.com/donmonty/api-nubebar)
-- [Check out the project's frontend.](https://github.com/donmonty/frontend-nubebar)
+- [Check out the Django app repo.](https://github.com/donmonty/api-nubebar-django)
+- [Check out the mobile app repo.](https://github.com/donmonty/frontend-nubebar)
 
 ![nubebar-banner](https://user-images.githubusercontent.com/13739454/124403144-78b51480-dcfa-11eb-8778-213888aa7652.png)
 
