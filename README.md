@@ -1,5 +1,5 @@
 # Hi! Montero here.
-I'm a full stack engineer and copywriter.
+I'm a product builder and marketer. I enjoy working with early stage startups, helping them build products and internal tools. I am a self-taught developer and everything I know I have learned by building interesting products that make money. 
 
 ## Tech Skills
 ![tech-skills](https://user-images.githubusercontent.com/13739454/124678033-5a305400-de87-11eb-9276-c52253de7202.png)
@@ -10,15 +10,14 @@ I'm a full stack engineer and copywriter.
 - Redux
 - Node
 - Postgres
-- Prisma
 - Django
 
 ## Featured Projects
 
-### [NubeBar](https://github.com/donmonty/api-nubebar)
+### [NubeBar](https://github.com/donmonty/api-nubebar-django)
 NubeBar is a mobile app that helps bars and restaurants manage their alcohol inventory in order to avoid theft and boost revenue. For most bars and restaurants alcohol sales represent 40% or more of total sales. Alcohol also has the highest margins and is the most valuable inventory. Despite this, most businesses manage their alcohol inventory using manual, time-consuming methods that make inventory control a big challenge. NubeBar solves this problem.
 
-I built the app using React Native, Django and Postgres.
+I built the app using React Native, Django and Postgres. I like to think that I worked as a full stack entrepreneur because I did everything: customer research and development, sales, UX design, frontend development, backend development and customer support.
 
 - [Click here to check out the project repository.](https://github.com/donmonty/api-nubebar)
 - [Check out the project's frontend.](https://github.com/donmonty/frontend-nubebar)
@@ -32,7 +31,6 @@ Although the app looks quite simple, it deals with a couple of technical challen
 
 Built with:
 - React
-- Custom hooks
 - Styled components
 - Node / Express
 
