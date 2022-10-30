@@ -1,5 +1,5 @@
 # Hi! Montero here.
-I'm a full stack engineer and marketer. I enjoy working with startups, helping them build products and internal tools. I am a self-taught developer and everything I know I have learned by building interesting B2B products. 
+I'm a full stack engineer, marketer and former startup founder. I enjoy working with startups, helping them build products and internal tools. I am a self-taught developer and everything I know I have learned by building interesting B2B products. I am always open to work opportunities, so feel free to drop me an email in case you want to connect.
 
 ## Tech Stack
 ![tech-skills](https://user-images.githubusercontent.com/13739454/124678033-5a305400-de87-11eb-9276-c52253de7202.png)
@@ -19,7 +19,7 @@ NubeBar is a mobile app that helps bars and restaurants manage their alcohol inv
 
 Thanks to NubeBar's bar code and QR scanner, bar managers can do full inventory counts in a matter of minutes, not hours. And with the help of NubeBar's analytics module, bar managers have a detailed view of their inventory over time. NubeBar highlights any differences between reported sales and actual alcohol consumption, allowing bar managers to uncover theft or malpractice at the bottle level with milliliter precision.
 
-I built the app using React Native, Django and Postgres. I like to think that I worked as a full stack entrepreneur because I did everything: customer research and development, sales, UX design, frontend development, backend development and customer support.
+I built the app using React Native, Django and Postgres. I like to think that I worked as a full stack entrepreneur because I did everything: customer research and development, sales, UI design, frontend engineering, backend engineering and customer support.
 
 - [Check out the backend repo (Django).](https://github.com/donmonty/api-nubebar-django)
 - [Check out the mobile app repo (React Native).](https://github.com/donmonty/frontend-nubebar)
