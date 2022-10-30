@@ -1,5 +1,5 @@
 # Hi! Montero here.
-I'm a product builder and marketer. I enjoy working with startups, helping them build products and internal tools. I am a self-taught developer and everything I know I have learned by building interesting B2B products. 
+I'm a full stack engineer and marketer. I enjoy working with startups, helping them build products and internal tools. I am a self-taught developer and everything I know I have learned by building interesting B2B products. 
 
 ## Tech Stack
 ![tech-skills](https://user-images.githubusercontent.com/13739454/124678033-5a305400-de87-11eb-9276-c52253de7202.png)
