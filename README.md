@@ -21,11 +21,11 @@ Thanks to NubeBar's bar code and QR scanner, bar managers can do full inventory 
 
 I built the app using React Native, Django and Postgres. I like to think that I worked as a full stack entrepreneur because I did everything: customer research and development, sales, UX design, frontend development, backend development and customer support.
 
-- [Check out the Django app repo.](https://github.com/donmonty/api-nubebar-django)
-- [Check out the mobile app repo.](https://github.com/donmonty/frontend-nubebar)
+- [Check out the backend repo (Django).](https://github.com/donmonty/api-nubebar-django)
+- [Check out the mobile app repo (React Native).](https://github.com/donmonty/frontend-nubebar)
 
-![nubebar-banner](https://user-images.githubusercontent.com/13739454/124403144-78b51480-dcfa-11eb-8778-213888aa7652.png)
 
+![nubebar-banner](https://user-images.githubusercontent.com/13739454/198862782-abba9349-52ab-48ab-afc9-701d11a7f9ce.png)
 
 ### [Parking Lot Search App](https://airgarage-client.herokuapp.com/)
 An app that connects to the Yelp API and searches for the worst rated parking spaces in America. Built for [Air Garage](https://www.airgarage.com/), a YC startup that automates the operation of parking lots and enables churches and businesses to rent out parking to drivers on demand. 
