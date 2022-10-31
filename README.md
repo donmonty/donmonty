@@ -23,6 +23,7 @@ I built the app using React Native, Django and Postgres. I like to think that I 
 
 - [Check out the backend repo (Django).](https://github.com/donmonty/api-nubebar-django)
 - [Check out the mobile app repo (React Native).](https://github.com/donmonty/frontend-nubebar)
+- [Watch a quick video of the app in action](https://www.notion.so/NubeBar-e54b9344880e4a34a0aa655b94def266#a8fd30fa783f478cb3316b7f2561f001)
 
 
 ![nubebar-banner](https://user-images.githubusercontent.com/13739454/198862782-abba9349-52ab-48ab-afc9-701d11a7f9ce.png)
