@@ -1,17 +1,6 @@
 # Hi! Montero here.
 I'm a full stack engineer, marketer and former startup founder. I enjoy working with startups, helping them build products and internal tools. I am a self-taught developer and everything I know I have learned by building interesting B2B products. I am always open to work opportunities, so feel free to drop me an email in case you want to connect.
 
-## Tech Stack
-![tech-skills](https://user-images.githubusercontent.com/13739454/124678033-5a305400-de87-11eb-9276-c52253de7202.png)
-
-- Javascript
-- Python
-- React & React Native
-- Redux
-- Node
-- Postgres
-- Django
-
 ## Featured Projects
 
 ## [NubeBar](https://github.com/donmonty/api-nubebar-django)
@@ -21,12 +10,39 @@ Thanks to NubeBar's bar code and QR scanner, bar managers can do full inventory 
 
 I built the app using React Native, Django and Postgres. I like to think that I worked as a full stack entrepreneur because I did everything: customer research and development, sales, UI design, frontend engineering, backend engineering and customer support.
 
-- [Check out the backend repo (Django).](https://github.com/donmonty/api-nubebar-django)
-- [Check out the mobile app repo (React Native).](https://github.com/donmonty/frontend-nubebar)
-- [Watch a quick video of the app here](https://www.notion.so/NubeBar-e54b9344880e4a34a0aa655b94def266#a8fd30fa783f478cb3316b7f2561f001)
-
-
 ![nubebar-banner](https://user-images.githubusercontent.com/13739454/198862782-abba9349-52ab-48ab-afc9-701d11a7f9ce.png)
+
+### Tech Stack
+
+- Django
+- Django REST Framework
+- React Native
+- Postgres
+
+### Features
+
+NubeBar allows bar managers to:
+
+- Add new bottles to the inventory using the phone's camera as a barcode and QR code scanner.
+- Track the liquid volume of each bottle over time.
+- Remove empty bottles from the inventory.
+- Parse sales reports from third-party point of sale software.
+- Perform daily inventory counts.
+- Generate variance analysis reports to compare alcohol sales versus actual consumption.
+- Load drink menus and recipes from Google Sheets files via the Google Sheets API.
+- Create inventory cost reports.
+- Manage multiple locations (for restaurant and bar chains).
+- Manage multiple storage locations.
+- Preload more than 500 spirit brands sold in Mexico via the Google Sheets API.
+- Validate the legitimacy of purchased bottles by scrapping the federal government's website.
+
+
+[Check out the backend repo (Django).](https://github.com/donmonty/api-nubebar-django)
+
+[Check out the mobile app repo (React Native).](https://github.com/donmonty/frontend-nubebar)
+
+[Watch a quick video of the app here](https://www.notion.so/NubeBar-e54b9344880e4a34a0aa655b94def266#a8fd30fa783f478cb3316b7f2561f001)
+
 
 ## [Analytics Dashboard](https://www.loom.com/share/35250740c3a54e36a0080be862ea0ebb)
 Dots is a YC-backed company that helps manage Discord and Slack communities at scale, providing custom onboarding flows and analytics. I helped them build an analytics dashboard where community managers could check out critical data such as active users, popular threads, user retention and community growth over time.
@@ -43,7 +59,7 @@ Culina Health is a NY startup that connects people who want to eat healthier wit
 
 Building convoluted forms is not a trivial thing so I used Formik, a battle-tested library that simplifies the process and provides great flexibility thanks to its React Context-based approach and its integration with Yup to handle complex validations.
 
-Features:
+### Features
 - Accomodates any number of steps/screens
 - Follows different routes depending on user input
 - Built with React Router v6, Formik and Typescript
