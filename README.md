@@ -23,7 +23,7 @@ I built the app using React Native, Django and Postgres. I like to think that I 
 
 - [Check out the backend repo (Django).](https://github.com/donmonty/api-nubebar-django)
 - [Check out the mobile app repo (React Native).](https://github.com/donmonty/frontend-nubebar)
-- [Watch a quick video of the app in action](https://www.notion.so/NubeBar-e54b9344880e4a34a0aa655b94def266#a8fd30fa783f478cb3316b7f2561f001)
+- [Watch a quick video of the app here](https://www.notion.so/NubeBar-e54b9344880e4a34a0aa655b94def266#a8fd30fa783f478cb3316b7f2561f001)
 
 
 ![nubebar-banner](https://user-images.githubusercontent.com/13739454/198862782-abba9349-52ab-48ab-afc9-701d11a7f9ce.png)
@@ -33,7 +33,7 @@ Dots is a YC-backed company that helps manage Discord and Slack communities at s
 
 The frontend is built with React, Ant Design and Recharts. The dashboard fetches data direclty from the Postgres database thanks to Supabase and its RPC functionality which executes complex queries in the form of stored procedures.
 
-[Check a quick video of the dashboard here](https://www.loom.com/share/35250740c3a54e36a0080be862ea0ebb)
+[Watch a quick video of the dashboard here](https://www.loom.com/share/35250740c3a54e36a0080be862ea0ebb)
 
 <img width="1417" alt="Screen Shot 2022-04-10 at 19 26 00" src="https://user-images.githubusercontent.com/13739454/198871787-12aaa2b9-e381-4320-bd77-a7576e8649c4.png">
 <img width="1429" alt="Screen Shot 2022-04-10 at 19 19 17" src="https://user-images.githubusercontent.com/13739454/198871793-859beba0-02b0-49c2-9113-30f8c8187eb8.png">
