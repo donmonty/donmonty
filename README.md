@@ -38,6 +38,23 @@ NubeBar allows bar managers to:
 
 [Watch a quick video of the app here](https://www.notion.so/NubeBar-e54b9344880e4a34a0aa655b94def266#a8fd30fa783f478cb3316b7f2561f001)
 
+## [NubeBar Dashboard and Chatbot](https://github.com/donmonty/bar-metrics)
+A multi-metric web dashboard and AI chatbot that gives bar managers a real-time view of their inventory and sales health, headlined by inventory shrinkage/variance — the gap between what POS sales say should have been poured and what physical bottle-weighing proves was actually consumed. It's the analytics layer on top of NubeBar's inventory data, turning raw scan/sales data into the insight that actually catches theft, over-pouring, and spillage at the bottle level.
+
+Built as a multi-tenant Next.js app reading from the existing NubeBar production database (owned for writes by a separate legacy Django service), with an AI chatbot that lets managers ask questions about their data in plain language instead of digging through reports.
+
+### Key Features
+- **Four drill-down dashboards:** Variance (shrinkage by ingredient), Sales (revenue trend + top-selling recipes), Stock Value (current inventory value by storage location), and Unregistered Products (POS sales the catalog can't attribute — a data-quality/leakage signal) — plus a landing overview composing all four into compact summary cards.
+- **Tool-calling AI chatbot (Claude + Vercel AI SDK):** Answers natural-language questions about inventory and sales, with generative UI for rich responses, plus a guarded read-only SQL escape hatch for ad-hoc queries the built-in tools don't cover.
+- **Multi-tenant auth & data isolation:** Auth.js magic-link sign-in, bar managers scoped to their own Locations, enforced with Postgres Row-Level Security on top of a locked-down, read-only database role — defense in depth, not just app-layer checks.
+- **Safe integration with a live legacy system:** Reads a production database it doesn't own for writes, via an introspected (never hand-edited) schema and a dedicated connection pool, so the dashboard can ship independently without risking the existing Django app.
+- **Two-database architecture:** A dedicated app database (Neon Postgres) for dashboard-owned state (users, sessions, location assignments) kept cleanly separate from the read-only legacy data store.
+
+<img width="1411" height="989" alt="Screenshot 2026-06-30 at 12 19 45 a m" src="https://github.com/user-attachments/assets/e53f0b82-2cd1-4c4a-beff-b19cabb76ac1" />
+<img width="1411" height="989" alt="Screenshot 2026-06-30 at 12 20 17 a m" src="https://github.com/user-attachments/assets/b1cb9281-e250-4474-9b2e-543165af7575" />
+<img width="1411" height="989" alt="Screenshot 2026-06-30 at 12 19 39 a m" src="https://github.com/user-attachments/assets/de381fc5-32ef-4def-bb8e-b4badb882c42" />
+
+
 ## Axle Health: Clinician Mobile App
 [Axle Health](https://www.axlehealth.com/) is a YC-backed healthcare technology company that helps enterprise healthcare providers improve clinician workforce productivity through scheduling, route optimization, and patient engagement software.
  
